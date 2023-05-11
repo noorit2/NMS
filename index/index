@@ -1,0 +1,199 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>N M S</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<h4><p>NMS_Center</p></h4>
+									<style>
+										h4 {
+											display: inline-flex;
+											font-family: "impact", sans-serif;
+											background: url("images/32470696772_4faf907ddf_b.jpg");
+											font-size: 5rem;
+											background-clip: text;
+											-webkit-background-clip: text;
+											-webkit-text-fill-color: #5b728a54;
+											animation: move 10s linear infinite;
+											letter-spacing: 3rem;
+
+										}
+										@keyframes move {
+											from {background-position: 0 80%;}
+											to {background-position: 100% 50%;}
+										}
+									</style>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									</ul>
+								</header>
+
+							<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header>
+											<h1>Welcome to NMS Medical Center</h1>
+										</header>
+										<p>Founded in 1989 at the Russian Academy of Medical Sciences Research Institute.  The clinic was one of the first in the commercial pharmaceutical industry.  He was also awarded the title of Moscow Quality.  Today, more than 500 highly qualified specialists work in 20 medical fields.  The doors of another 12 clinics have also been opened for our patients.  Similar located within walking distance, with a full medical team.  The hospital offers the largest variety of outpatient and polyclinic services for children.  The main hospital focuses on the effective and safe treatment of all patients.</p>
+									</div>
+									<span class="image object">
+										<img src="images/1-dsc-9989.jpg" alt="" />
+									</span>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Why us?</h2>
+									</header>
+									<div class="features">
+										<article>
+											<span class="icon fa-gem"></span>
+											<div class="content">
+												<h3>Over 25 years of experience</h3>
+												<p>The first Nearmedic clinic was opened in 1996!  To date, the network of clinics consists of 18 modern medical centers in the cities of Moscow, Ryazan and Obninsk.</p>
+											</div>
+										</article>
+										<article>
+											<span class="icon solid fa-paper-plane"></span>
+											<div class="content">
+												<h3>We are trusted</h3>
+												<p>Every month, more than 30,000 patients receive more than 150,000 services in our network of clinics, trusting their health to our doctors.</p>
+											</div>
+										</article>
+										<article>
+											<span class="icon solid fa-rocket"></span>
+											<div class="content">
+												<h3>Title "Moscow Quality"</h3>
+												<p>The chain of clinics "Nearmedic" was repeatedly awarded the title "Moscow Quality".  We were the first to receive this award in the commercial medicine sector.</p>
+											</div>
+										</article>
+										<article>
+											<span class="icon solid fa-signal"></span>
+											<div class="content">
+												<h3>Over 500 Doctors</h3>
+												<p>The network of Nearmedic clinics employs more than 500 highly qualified specialists in 40 specialties, including candidates of medical sciences, doctors of the highest category, honored doctors with numerous awards.</p>
+											</div>
+										</article>
+									</div>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Our services</h2>
+									</header>
+									<div class="posts">
+										<article>
+											<a href="#" class="image"><img src="images/1.jpg" alt="" /></a>
+											<h3>General hospital</h3>
+											<p></p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/2.jpg" alt="" /></a>
+											<h3>Dental Center</h3>
+											<p></p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/3.jpg" alt="" /></a>
+											<h3>Childrens Hospital</h3>
+											<p></p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/4.jpg" alt="" /></a>
+											<h3>Pharmacy</h3>
+											<p></p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/5.jpg" alt="" /></a>
+											<h3>Blood Bank</h3>
+											<p></p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/7.jpg" alt="" /></a>
+											<h3>Chronic Disease Center</h3>
+											<p></p>
+										</article>
+									</div>
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="../ho1/index.html">General hospital</a></li>
+										<li><a href="../ho2/index.html">Dental Center</a></li>
+										<li><a href="../ho3/index.html">Childrens Hospital</a></li>
+										<li><a href="../med/index.html">Pharmacy</a></li>
+										<li><a href="https://b-blood.org/">Blood Bank</a></li>
+										<li><a href="https://www.cdc.gov">Chronic Disease Center</a></li>
+										<li><a href="https://www.cottercrunch.com">Health food</a> </li>
+									</ul>
+								</nav>
+
+								
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									<ul class="contact">
+										<li class="icon solid fa-envelope"><a href="#">nms@gmail.com</a></li>
+										<li class="icon solid fa-phone">+7(495)126-00-54</li>
+										<li class="icon solid fa-home">M.Polezhaevskaya,Prospct Marshal Zhukov,38,H1<br />
+										</li>
+									</ul>
+								</section>
+
+							
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
